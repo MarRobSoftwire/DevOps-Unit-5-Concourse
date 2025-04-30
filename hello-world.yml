@@ -20,4 +20,4 @@ jobs:
       - name: repo
       run:
         path: cat
-        args: ["docker-compose.yml"]
+        args: ["repo/docker-compose.yml"]
